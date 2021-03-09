@@ -8,6 +8,8 @@
 
 // Your code:
 
+const words = (str) => str.split(' ');
+
 //* Begin of tests
 const assert = require('assert');
 
