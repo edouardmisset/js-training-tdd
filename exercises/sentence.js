@@ -8,6 +8,9 @@
 
 // Your code:
 
+
+const sentence = (arr) => arr.join(' ')
+
 //* Begin of tests
 const assert = require('assert');
 
